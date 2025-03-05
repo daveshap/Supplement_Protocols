@@ -4,9 +4,9 @@
 
 This protocol was designed for myself as part of a lifelong burnout recovery regime. Specifically, I suffered from:
 
-- **GI dysfunction (dysbiosis, h pylori, leaky gut)
-- **HPA axis dysfunction (burnout, stress)
-- **Lipid metabolic problems (hyperlipidemia, pancreatitis)
+- GI dysfunction (dysbiosis, h pylori, leaky gut)
+- HPA axis dysfunction (burnout, stress)
+- Lipid metabolic problems (hyperlipidemia, pancreatitis)
 
 This protocol is based on my "Triple Crown" theory of CFS management, which is a trifecta of supporting:
 
@@ -16,9 +16,9 @@ This protocol is based on my "Triple Crown" theory of CFS management, which is a
 
 By taking this "trident" approach to support and recovery, with a heavy focus on fundamental cellular and system support, I designed this protocol to focus on Three primary criteria:
 
-1. Safety**: Supplements that can be taken indefinitely under most cases, with few side effects or interactions
-2. Efficacy**: Supplements with clinically validated effects and substantial supporting evidence
-3. Versatility**: High leverage supplements that impact multiple overlapping systems and address multiple pathologies
+1. **Safety**: Supplements that can be taken indefinitely under most cases, with few side effects or interactions
+2. **Efficacy**: Supplements with clinically validated effects and substantial supporting evidence
+3. **Versatility**: High leverage supplements that impact multiple overlapping systems and address multiple pathologies
 
 The theory here is that this comprehensive panel of supplements will create synergistic "entourage" effects - they will reinforce each other to create a virtuous cycle and an "upwards spiral" of health.
 
