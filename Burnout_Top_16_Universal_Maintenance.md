@@ -60,6 +60,8 @@ For those with complex, overlapping health challenges, this creates a realistic 
 
 This isn't about quick fixes—it's about patiently building a foundation for lasting health by respecting the complex interplay between systems and providing comprehensive support that allows the body's innate healing capabilities to function optimally. The carefully selected supplements in this protocol provide this foundation, creating the conditions for an upward spiral of improving health rather than a continued cycle of dysfunction.
 
+# 16 Supplement Protocol
+
 ## 1. Coenzyme Q10 (Ubiquinol)
 
  Benefits: Mitochondrial ATP synthesis, antioxidant protection, cardiovascular support
