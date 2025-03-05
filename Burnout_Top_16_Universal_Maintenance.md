@@ -22,6 +22,10 @@ By taking this "trident" approach to support and recovery, with a heavy focus on
 
 The theory here is that this comprehensive panel of supplements will create synergistic "entourage" effects - they will reinforce each other to create a virtuous cycle and an "upwards spiral" of health.
 
+Here's the original primary research using Perplexity Deep Research to gather all the information: https://www.perplexity.ai/search/put-together-a-report-of-the-t-w_X9jo3XTWqLqSuJYkQkmw
+
+I then used Claude to prioritize and clean up the top supplements and rank them based upon the selection criteria described above. 
+
 ### Theory Explained
 
 This protocol is built on understanding how complex health challenges require a systems approach rather than treating isolated symptoms. When dealing with overlapping issues like I experienced—GI dysfunction, HPA axis burnout, and metabolic problems—targeting just one area typically yields limited results.
