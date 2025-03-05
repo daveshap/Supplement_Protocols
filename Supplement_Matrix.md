@@ -2,7 +2,7 @@
 
 These represent the top supplements that I've found over, and over, and over again. Trying to optimize for breadth and specific uses. 
 
-## Description table
+## Comprehensive Supplement Matrix
 
 | Supplement | Benefits | Systems Affected | Recommended Dose | Mechanism | Target Pathologies |
 |------------|----------|------------------|------------------|-----------|-------------------|
@@ -33,9 +33,7 @@ These represent the top supplements that I've found over, and over, and over aga
 | Curcumin Phytosome + Piperine | NF-κB inhibition, antioxidant, detoxification support | Immune, hepatic, gastrointestinal, neurological | 500mg curcumin with 5mg piperine | Inhibits multiple inflammatory pathways including NF-κB, COX-2, and TNF-α. Activates Nrf2, inducing antioxidant enzymes. | Inflammatory conditions, arthritis, metabolic syndrome, cognitive decline | 
 
 
-## Scores table
-
-# Comprehensive Supplement Scoring Matrix
+## Comprehensive Supplement Scoring Matrix
 
 | Supplement | Safety | Efficacy | Versatility | CFS Score | GI Score | Neuroimmune Score | Metabolic Score | Endocrine Score | Total Core Score | Total Contextual Score | Grand Total |
 |------------|--------|----------|-------------|-----------|----------|-------------------|----------------|----------------|-----------------|------------------------|-------------|
