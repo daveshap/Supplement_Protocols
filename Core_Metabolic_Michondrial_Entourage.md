@@ -23,6 +23,10 @@ These supplements form your **long-term baseline**, addressing known vulnerabili
 
 - **Vitamin D3 + K2** (immune and metabolic modulation, bone health)
 
+- **Curcumin Phytosome + Piperine** (anti-inflammatory, histamine stabilization, gut-liver axis, supports lipids)
+
+- **Phosphatidylcholine** (membrane stabilization, liver, gut mucosal health) >>> IMPORTANT: Long term hepatic support indicated due to hyperlipidemia!!!
+
 This group is foundational, and **indefinite use is wise**.
 
 ---
@@ -35,6 +39,7 @@ This addresses your primary metabolic bottleneck (mitochondrial dysfunction and 
 - **NAD+ precursor (NR or NMN)**: Direct mitochondrial cofactor boosting ATP synthesis.
 - **R-Alpha Lipoic Acid (R-ALA)**: Antioxidant, mitochondrial metabolism support, and improved insulin sensitivity.
 - **PQQ (Pyrroloquinoline Quinone)** *(pending addition)*: Mitochondrial biogenesis and neuroprotective effects.
+- **D-Ribose** *(optional)*: Supports ATP metabolism and could boost energy.
 
 Given your strong, immediate positive response, this mitochondrial entourage seems to directly target your underlying metabolic limitations.
 
@@ -45,11 +50,9 @@ Given your strong, immediate positive response, this mitochondrial entourage see
 ### ③ **Reserve Experiments (Targeted Short-term Trials & Cyclical Additions):**
 These are more **experimental or supplemental**—good candidates for short-to-medium-term trials. They potentially address subtler constraints or offer incremental benefits:
 
-- **Curcumin Phytosome + Piperine** (anti-inflammatory, histamine stabilization, gut-liver axis) >>> IMPORTANT: Long term hepatic support indicated due to hyperlipidemia!!!
 - **Quercetin** (anti-inflammatory, mast-cell stabilization, histamine support)
 - **Butyrate** (gut mucosal integrity, microbiome stabilization, indirectly supportive of mitochondrial metabolism)
 - **Zinc Carnosine** (gut lining integrity)
-- **Phosphatidylcholine** (membrane stabilization, liver, gut mucosal health) >>> IMPORTANT: Long term hepatic support indicated due to hyperlipidemia!!!
 
 These supplements **should be trialed individually** to clearly assess efficacy. **Add them sequentially**, evaluating effects before committing to long-term inclusion. Consider cycling based on response rather than indefinite continuous use.
 
