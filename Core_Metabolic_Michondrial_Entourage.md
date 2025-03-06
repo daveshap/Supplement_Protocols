@@ -40,6 +40,8 @@ This addresses your primary metabolic bottleneck (mitochondrial dysfunction and 
 - **R-Alpha Lipoic Acid (R-ALA)**: Antioxidant, mitochondrial metabolism support, and improved insulin sensitivity.
 - **PQQ (Pyrroloquinoline Quinone)** *(pending addition)*: Mitochondrial biogenesis and neuroprotective effects.
 - **D-Ribose** *(optional)*: Supports ATP metabolism and could boost energy.
+- **NAC (N-Acetylcysteine)** (glutathione precursor, antioxidant, detoxification): Strongly indicated in chronic illness recovery for mitochondrial function.
+- **CoQ10 (Ubiquinol)** (critical mitochondrial electron transport support): Keystone for mitochondrial function
 
 Given your strong, immediate positive response, this mitochondrial entourage seems to directly target your underlying metabolic limitations.
 
