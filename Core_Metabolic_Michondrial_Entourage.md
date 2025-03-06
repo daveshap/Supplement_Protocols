@@ -45,11 +45,11 @@ Given your strong, immediate positive response, this mitochondrial entourage see
 ### ③ **Reserve Experiments (Targeted Short-term Trials & Cyclical Additions):**
 These are more **experimental or supplemental**—good candidates for short-to-medium-term trials. They potentially address subtler constraints or offer incremental benefits:
 
-- **Curcumin Phytosome + Piperine** (anti-inflammatory, histamine stabilization, gut-liver axis)
+- **Curcumin Phytosome + Piperine** (anti-inflammatory, histamine stabilization, gut-liver axis) >>> IMPORTANT: Long term hepatic support indicated due to hyperlipidemia!!!
 - **Quercetin** (anti-inflammatory, mast-cell stabilization, histamine support)
 - **Butyrate** (gut mucosal integrity, microbiome stabilization, indirectly supportive of mitochondrial metabolism)
 - **Zinc Carnosine** (gut lining integrity)
-- **Phosphatidylcholine** (membrane stabilization, liver, gut mucosal health)
+- **Phosphatidylcholine** (membrane stabilization, liver, gut mucosal health) >>> IMPORTANT: Long term hepatic support indicated due to hyperlipidemia!!!
 
 These supplements **should be trialed individually** to clearly assess efficacy. **Add them sequentially**, evaluating effects before committing to long-term inclusion. Consider cycling based on response rather than indefinite continuous use.
 
