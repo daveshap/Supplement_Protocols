@@ -1,5 +1,14 @@
-
 # Long-Term HPA Axis Reconditioning: Key Supplements and Compounds
+
+## TLDR
+
+If you don't want to read the whole thing, the TLDR is that the following are preselected for being liver/kidney safe (in general). Do your own research, particularly for drug interactions. 
+
+- Phosphatidylserine
+- Rhodiola Rosea
+- Magnolia Officinalis
+- L-Theanine
+- Holy Basil (Tulsi)
 
 **Overview:** Reconditioning the hypothalamic-pituitary-adrenal (HPA) axis requires supporting the body’s stress response over time with nutrients and herbs that balance cortisol and calm the sympathetic “fight or flight” system. Unlike stimulants that give quick boosts (but can strain the adrenals), these compounds build resilience by normalizing stress hormones and reducing chronic sympathetic overdrive ([Schisandra chinensis and Rhodiola rosea exert an anti-stress effect on the HPA axis and reduce hypothalamic c-Fos expression in rats subjected to repeated stress](https://www.spandidos-publications.com/10.3892/etm.2015.2882#:~:text=resistance,60)). Below is a well-researched list of supplements that help modulate cortisol, blunt excessive catecholamine activity, and promote sustainable HPA axis recovery. Each includes its mechanism of action and supporting evidence.
 
